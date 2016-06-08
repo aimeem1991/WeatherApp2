@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="sunny"></string>
+    <string name="cloudy"></string>
+    <string name="rain"></string>
+    <string name="snow"></string>
+    <string name="thunder"></string>
+    <string name="windy"></string>
+
+</resources>
